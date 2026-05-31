@@ -2,7 +2,7 @@
 
 A robust, scalable data engineering pipeline designed to ingest, validate, and process streaming financial transactions in real-time. This project leverages Apache Kafka for event streaming, PySpark for stream processing, and MongoDB for batch aggregation and historical reporting.
 
-##  Overview
+## 📖 Overview
 
 This system is built to handle live transaction data, identifying anomalies and potential fraud (such as time-warping or invalid financial totals) before they enter the analytics stream. It features a dual-processing architecture:
 
