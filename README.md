@@ -2,6 +2,11 @@
 
 This repository houses a collection of projects and coursework assignments developed as part of the Computer Engineering curriculum at the University of Tehran. The implementations trace the complete data pipeline—from foundational applied data science and big data processing to advanced deep learning and large language model fine-tuning.
 
+## Contributors
+
+**[Shahab Sherafat](https://github.com/shahabsherafat)** \
+**[Sepanta Ghonoodi](https://github.com/sepanta-ghonoodi)** \
+**[Mahdi Yari](https://github.com/mahdiyari15)**
 
 ## 📁 Repository Structure
 
